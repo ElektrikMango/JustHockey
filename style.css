@@ -4,4 +4,6 @@ p {
 h1 {
   font-size: 4em;
 }
-
+a {
+  color: DarkTurquoise;
+}
